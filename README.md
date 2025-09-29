@@ -4,4 +4,4 @@
 - ✉️ Contate-me no email: jjuliaborgess@gmail.com
 - 👩🏽‍💻 Ela/Dela
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjbborges&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjbborges&show_icons=true&theme=radical)
