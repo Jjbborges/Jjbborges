@@ -5,3 +5,5 @@
 - 👩🏽‍💻 Ela/Dela
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjbborges&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jjbborges&layout=compact)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
