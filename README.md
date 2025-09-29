@@ -1,7 +1,8 @@
 ## Olá!  eu sou a Julia Borges
 - 📔 Fazendo faculdade de Ciências da computação
 - 📖 Aprendendo TypeScript
-- ✉️ Contate-me - jjuliaborgess@gmail.com  <a href="https://www.linkedin.com/in/julia-borges-371410334/" target="_blank">
+- ✉️ Contate-me - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjuliaborgess@gmail.com)
+  <a href="https://www.linkedin.com/in/julia-borges-371410334/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 - 👩🏽‍💻 Ela/Dela
