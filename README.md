@@ -1,10 +1,9 @@
 ## Olá!  eu sou a Julia Borges
 - 📔 Fazendo faculdade de Ciências da computação
 - 📖 Aprendendo TypeScript
-- ✉️ Contate-me -  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjuliaborgess@gmail.com)
-  <a href="https://www.linkedin.com/in/julia-borges-371410334/" target="_blank">
+- ✉️ Contate-me - <a href="https://www.linkedin.com/in/julia-borges-371410334/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
+</a> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjuliaborgess@gmail.com)
 - 👩🏽‍💻 Ela/Dela
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjbborges&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jjbborges&layout=compact)
