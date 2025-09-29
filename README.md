@@ -5,7 +5,9 @@
 - ✉️ contate-me jjuliaborgess@gmail.com
 <a href="https://www.linkedin.com/in/julia-borges-371410334/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juba.dev/)
+</a>  <a href="https://www.instagram.com/juba.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" fill="#E4405F"/>
+</a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjbborges&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jjbborges&layout=compact)
