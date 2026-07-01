@@ -3,7 +3,7 @@
 - 📖 ...
 - 👩🏽‍💻 Ela/Dela
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jjbborges&theme=dracula)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jjbborges&theme=synthwave)
 
 ## | 🌸Tecnologias
 
