@@ -3,7 +3,7 @@
 - 📖 ...
 - 👩🏽‍💻 Ela/Dela
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jjbborges&show_icons=true&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jjbborges&theme=tokyo-night)
 
 ## | 🌸Tecnologias
 
